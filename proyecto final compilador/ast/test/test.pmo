@@ -1,0 +1,31 @@
+compi miprograma {
+int a=5;
+mostrar x+2*4;
+double x=5.6;
+int y= x+4;
+string hola = caracola;
+ciclo if ((5/2)==(4+6)) then exito_listo;
+ciclo if ((5/2)==(6+3))and((4+6)==(6+1)) then exito_listo;
+ciclo for(int j=1; j==9; j++)
+ciclo for(int r=1; r==9; r--)
+ciclo while(int a=10;)
+{ 
+int y= x+4;
+mostrar x+2*4; 
+double x=5.6;
+string hola = caracola;
+a++
+}
+constante int a=5;
+constante double x=5.6;
+mostrar marlin;
+mostrar 0985;
+
+int vec [6] = {8,5,7,9,5,7,}
+string vec [6] = {marlin,judith, mendez, yaque,marlin, marlin,}
+int mat [3][2]={1,2,5,}{3,4,8,};
+string mats [2][2]={marlin, judith,}{mendez, yaque,};
+fun {
+ciclo if ((5/2)==(4+6)) then exito_listo;
+}
+}
